@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hamida Sonia
+# Hi 👋 I'm Hamida Sonia
 
 🚀 **Fullstack Developer**  
 📱 Flutter • 🌐 Next.js • 🧩 Laravel • 🗄️ PostgreSQL
@@ -46,8 +46,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamidasonia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidasonia&layout=compact&theme=tokyonight)
 
 ---
 
