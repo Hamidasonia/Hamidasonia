@@ -21,26 +21,33 @@ Focus on:
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasonia&layout=compact&hide_border=true" />
-    </td>
-    <td width="50%">
-      
-Core:
-- Flutter
-- Next.js
-- Laravel
+```mermaid
+graph TD
 
-Supporting:
-- PostgreSQL
-- MySQL
-- TypeScript
+A[Fullstack Developer]
 
-      </td>
-  </tr>
-</table>
+A --> B[Mobile]
+B --> B1[Flutter]
+B --> B2[Dart]
+
+A --> C[Frontend]
+C --> C1[Next.js]
+C --> C2[React]
+C --> C3[TypeScript]
+
+A --> D[Backend]
+D --> D1[Laravel]
+D --> D2[PHP]
+
+A --> E[Database]
+E --> E1[PostgreSQL]
+E --> E2[MySQL]
+
+A --> F[Integration]
+F --> F1[REST API]
+F --> F2[Wablas]
+F --> F3[Mikrotik]
+F --> F4[RouterOS]
 
 ---
 
