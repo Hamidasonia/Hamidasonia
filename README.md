@@ -21,25 +21,26 @@ Focus on:
 
 ## Tech Stack
 
-**Mobile**
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasonia&layout=compact&hide_border=true" />
+    </td>
+    <td width="50%">
+      
+Core:
 - Flutter
-- Dart
-
-**Frontend**
 - Next.js
-- React
-- TypeScript
-
-**Backend**
 - Laravel
-- PHP
 
-**Database**
+Supporting:
 - PostgreSQL
 - MySQL
+- TypeScript
 
-**Tools**
-- Git
+      </td>
+  </tr>
+</table>
 
 ---
 
