@@ -21,7 +21,6 @@ Focus on:
 
 ## Tech Stack
 
-```mermaid
 graph TD
 
 A[Fullstack Developer]
