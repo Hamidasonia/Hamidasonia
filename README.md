@@ -1,62 +1,75 @@
-# Hi 👋 I'm Hamida Sonia
+# Hamida Sonia
 
-🚀 **Fullstack Developer**  
-📱 Flutter • 🌐 Next.js • 🧩 Laravel • 🗄️ PostgreSQL
+Fullstack Developer
 
----
-
-## 👨‍💻 About Me
-- 💼 Fullstack Developer with experience in **mobile & web applications**
-- 📱 Building **Flutter apps** using BLoC & clean architecture
-- 🌐 Developing modern web apps with **Next.js App Router & TypeScript**
-- 🧩 Backend development using **Laravel & REST API**
-- 🗄️ Familiar with **PostgreSQL, MySQL**
-- ⚙️ Experience integrating **API, WhatsApp API (Wablas), Mikrotik, RouterOS**
+Flutter • Next.js • Laravel • PostgreSQL
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Fullstack developer with experience building mobile and web applications.
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Focus on:
+- Mobile development using Flutter with BLoC and clean architecture
+- Modern web apps using Next.js App Router and TypeScript
+- Backend systems with Laravel and REST API
+- Database design with PostgreSQL and MySQL
+- System integration: API, WhatsApp API (Wablas), Mikrotik, RouterOS
 
 ---
 
-## 📌 Current Focus
-- 🧠 Online Exam System (Next.js App Router)
-- 📱 Flutter performance & state management (BLoC)
-- 🔐 Authentication & API security
-- 🖨️ Certificate generation & reporting system
+## Tech Stack
+
+**Mobile**
+- Flutter
+- Dart
+
+**Frontend**
+- Next.js
+- React
+- TypeScript
+
+**Backend**
+- Laravel
+- PHP
+
+**Database**
+- PostgreSQL
+- MySQL
+
+**Tools**
+- Git
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hamidasonia&show_icons=true&theme=tokyonight)
+## Current Work
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hamidasonia&layout=compact&theme=tokyonight)
-
-
----
-
-## 📫 Contact Me
-- 💼 LinkedIn: https://linkedin.com/in/hamidasoniad
-- 📧 Email: hamidadun@gmail.com
+- Online Exam System (Next.js App Router)
+- Flutter performance and state management
+- Authentication and API security
+- Certificate generation and reporting system
 
 ---
 
-⭐ *Feel free to check out my repositories and give a star if you like them!*
+## GitHub
+
+![stats](https://github-readme-stats.vercel.app/api?username=hamidasonia&show_icons=true&hide_border=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidasonia&layout=compact&hide_border=true)
+
+---
+
+## Contribution Activity
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
+## Contact
+
+LinkedIn  
+https://linkedin.com/in/hamidasoniad
+
+Email  
+hamidadun@gmail.com
