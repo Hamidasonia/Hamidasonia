@@ -45,7 +45,7 @@ Focus on:
 
 ## Contribution Activity
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Isometric Calendar](https://github.com/hamidasonia/hamidasonia/blob/master/github-metrics-personal-isocalendar.svg)
 
 ---
 
